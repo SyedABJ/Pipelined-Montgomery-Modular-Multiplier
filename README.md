@@ -19,6 +19,7 @@ Functional verification was carried out using Vivado's Virtual Input/Output (VIO
 
 # Functional Verification
 <img width="1239" height="597" alt="Screenshot 2025-07-27 002310" src="https://github.com/user-attachments/assets/2d6fefc9-e5d3-41e4-8d97-29f78a126c6c" />
+
 # Resource Utilization (for a 6-bit Montgomery Multiplier)
 <img width="432" height="208" alt="Screenshot 2025-07-27 003858" src="https://github.com/user-attachments/assets/f864c9c8-ae35-4d95-ab47-21d0f971b64c" />
 
