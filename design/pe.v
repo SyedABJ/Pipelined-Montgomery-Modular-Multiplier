@@ -1,5 +1,5 @@
 (* DONT_TOUCH = "TRUE" *)
-module pe#(parameter dw = 12,parameter w = 6)(
+module pe#(parameter dw = 6,parameter w = 3)(
 input clk,
 input rst,
 input enable,
